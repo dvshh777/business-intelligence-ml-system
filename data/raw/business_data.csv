@@ -1,0 +1,13 @@
+customer_id,company_name,industry,region,monthly_revenue,active_users,support_tickets,last_login_days_ago,contract_value,tenure_months,churned
+1,Northwind Retail,Retail,North,12000,340,12,2,30000,18,0
+2,Delta Health,Healthcare,West,8000,120,22,14,18000,8,1
+3,Summit Finance,Finance,East,23000,410,6,1,45000,26,0
+4,Urban Logistics,Logistics,South,9500,150,18,10,22000,11,1
+5,BluePeak Energy,Energy,West,17500,290,9,3,39000,22,0
+6,Atlas Foods,FMCG,North,6200,98,31,20,14000,6,1
+7,Vertex Media,Media,East,14300,220,11,5,28000,15,0
+8,TerraBuild,Construction,South,7100,105,27,16,16000,9,1
+9,PrimeCare Clinics,Healthcare,North,18800,310,7,4,41000,24,0
+10,CloudAxis Tech,Technology,West,26000,520,4,1,52000,30,0
+11,Everline Apparel,Retail,South,6700,90,29,18,15000,7,1
+12,Orbit Telecom,Telecom,East,15400,280,13,6,32000,19,0
